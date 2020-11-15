@@ -1,11 +1,11 @@
 function click1() {
-    document.sound.src = "blip.wav";
+    document.getElementById("blip").play();
 }
 
 function click2() {
-    document.sound.src = "bloop_x.wav";
+    document.getElementById("bloop").play();
 }
 
 function click3() {
-    document.sound.src = "blurp_x.wav";
+    document.getElementById("blurp").play();
 }
