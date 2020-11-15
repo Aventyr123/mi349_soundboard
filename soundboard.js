@@ -1,4 +1,4 @@
-var buttonElement = document.getElementById('blip')
-var blip = document.getElementById('audio1').onclick = function() {
-    blip.play()
+var blip = document.getElementById('blip')
+blip.onclick = function () {
+    document.getElementById('audio1').play();
 }
