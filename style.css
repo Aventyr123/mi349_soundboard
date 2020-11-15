@@ -1,0 +1,26 @@
+html {
+    background-color: gray;
+}
+
+h1 {
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: cornsilk;
+}
+
+button {
+    text-align: center;
+    font-weight: bold;
+}
+
+#blip {
+    background-color: red;
+}
+
+#bloop {
+    background-color: yellow;
+}
+
+#blurp {
+    background-color: green;
+}
